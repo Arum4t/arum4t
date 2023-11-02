@@ -1,4 +1,5 @@
 ### About me
+--- 
 I'm a back-end developer from France.
 
 ### Technologies & tools 
