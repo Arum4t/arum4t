@@ -1,4 +1,4 @@
-### Welcome 👋
+### About me
 I'm a back-end developer from France.
 
 ### Technologies & tools 
@@ -12,14 +12,21 @@ I'm a back-end developer from France.
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,react)](https://skillicons.dev)  
 
-[![My Skills](https://skillicons.dev/icons?i=idea,git,github,gitlab,vscode,postman)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=idea,git,github,gitlab,vscode,postman)](https://skillicons.dev) 
 
-
-### GitHub Stats
----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arum4t&theme=tokyonight)  
 
+### GitHub stats
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arum4t&show_icons=true&theme=ayu-mirage)
 
+### Where to find me
+---
+<p align="left">
+  <a href="https://www.linkedin.com/in/quentin-schnurr67/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 
 <!--
