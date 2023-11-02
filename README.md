@@ -1,5 +1,5 @@
-### Hi there 😁
-Welcome to my page. I'm a back-end developer from France.
+### Welcome 👋
+I'm a back-end developer from France.
 
 ### Technologies & tools 
 ---
@@ -17,8 +17,8 @@ Welcome to my page. I'm a back-end developer from France.
 
 ### GitHub Stats
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arum4t&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arum4t&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arum4t&theme=tokyonight)  
+
 
 
 
